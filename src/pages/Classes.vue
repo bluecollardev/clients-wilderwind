@@ -77,7 +77,7 @@
       <div class="container pt-4" v-if="displayQuestionForm" ref="questionForm">
         <div class="row">
           <div class="col-12 text-center">
-            <span class="sub-title">Ink, Resins, and Crystals Art Escape</span>
+            <span class="sub-title">{{ activeService.title }}</span>
             <h2 class="font-weight-bold text-black mb-5">Have a Question? I'm Here to Help!</h2>
           </div>
         </div>
