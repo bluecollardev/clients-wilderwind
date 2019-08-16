@@ -35,19 +35,19 @@
                 <i class="material-icons block-icon">brush</i>
               </div>
               <div class="text">
-                <h2 class="font-weight-bold text-black">Art Workshops</h2>
-                <p>Check out our current classes!</p>
+                <h2 class="font-weight-bold text-black">Local Art Workshops</h2>
+                <p>Check out our current workshops</p>
               </div>
             </a>
           </div>
           <div class="col-lg-4">
-            <a href="/events" class="site-block-feature d-flex p-4 rounded mb-4">
+            <a href="www.teachable.com" class="site-block-feature d-flex p-4 rounded mb-4">
               <div class="mr-3">
                 <i class="material-icons block-icon">calendar_today</i>
               </div>
               <div class="text">
-                <h2 class="font-weight-bold text-black">Class Schedules</h2>
-                <p>View Summer 2019 Classes</p>
+                <h2 class="font-weight-bold text-black">Online Classes</h2>
+                <p>View summer 2019 classes</p>
               </div>
             </a>
           </div>
@@ -57,8 +57,8 @@
                 <i class="material-icons block-icon">local_grocery_store</i>
               </div>
               <div class="text">
-                <h2 class="font-weight-bold text-black">Art for Sale</h2>
-                <p>Coming soon!</p>
+                <h2 class="font-weight-bold text-black">Artwork for Sale</h2>
+                <p>Browse my artwork pieces</p>
               </div>
             </a>
           </div>
@@ -71,7 +71,7 @@
         <div class="row mt-4 mb-4 pt-4">
           <div class="col-lg-11 ml-auto text-center">
             <span class="sub-title">What Types of Classes Do We Offer?</span>
-            <h2 class="font-weight-bold text-black mb-5">Popular Art Workshops</h2>
+            <h2 class="font-weight-bold text-black mb-5">Featured Art Workshops</h2>
           </div>
         </div>
       </div>

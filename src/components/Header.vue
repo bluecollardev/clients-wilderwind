@@ -26,7 +26,7 @@
             </a>
             <a href="#" class="d-flex align-items-center ml-auto mr-4">
               <span class="icon-phone mr-2"></span>
-              <span class="d-none d-lg-inline-block">+1 (780) 555-5555</span>
+              <span class="d-none d-lg-inline-block">+1 (780) 224-3699</span>
             </a>
             <a href="#" class="d-flex align-items-center">
               <span class="icon-envelope mr-2"></span>

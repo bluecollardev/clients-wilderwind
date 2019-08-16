@@ -8,7 +8,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12 text-center">
-              <span class="sub-title">Follow Us On Our Blog</span>
+              <span class="sub-title">Follow Us On Our Facebook</span>
               <h2 class="font-weight-bold text-black mb-5">Recent Posts</h2>
             </div>
           </div>
@@ -19,7 +19,7 @@
               :title="edge.node.title"
               :description="edge.node.summary"
               :link="edge.node.path"
-              linkText="Read Article"
+              linkText="Read Full Post"
               :image="edge.node.image"
               :imageAlt="edge.node.caption"
               :datePublished="edge.node.date"
@@ -27,7 +27,7 @@
           </div>
           <div class="row mt-5 text-center">
             <div class="col-12">
-              <p><a href="/blog-posts" class="btn btn-secondary btn-lg rounded-0">View All Posts</a></p>
+              <p><a href="https://www.facebook.com/wilderthanthewindcreations/" class="btn btn-secondary btn-lg rounded-0">Visit Facebook Page</a></p>
             </div>
           </div>
         </div>
