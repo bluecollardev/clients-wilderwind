@@ -35,7 +35,7 @@
                 <i class="material-icons block-icon">brush</i>
               </div>
               <div class="text">
-                <h2 class="font-weight-bold text-black">Local Art Workshops</h2>
+                <h2 class="font-weight-bold text-black">Art Workshops</h2>
                 <p>Check out our current workshops</p>
               </div>
             </a>
