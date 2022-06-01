@@ -24,7 +24,7 @@
     "postcss-loader": "^3.0.0",
     "rework-loader": "^0.1.1",
     "sass-loader": "^7.1.0",
-    "sharp": "^0.22.0",
+    "sharp": "^0.30.5",
     "style-loader": "^0.23.1",
     "vue-jest": "^3.0.4",
     "vue-markdown": "^2.2.4",
